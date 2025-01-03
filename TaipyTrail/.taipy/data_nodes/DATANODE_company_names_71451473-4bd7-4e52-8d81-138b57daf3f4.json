@@ -1,0 +1,28 @@
+{
+"id": "DATANODE_company_names_71451473-4bd7-4e52-8d81-138b57daf3f4",
+"config_id": "company_names",
+"scope": "<Scope.SCENARIO: 1>",
+"storage_type": "pickle",
+"owner_id": "SCENARIO_country_company_scenario_76bd2548-1c5d-43b0-9f5e-bc0e895f608e",
+"parent_ids": [
+"TASK_filter_companies_task_5d38d127-a606-4aa8-9538-e76c816eb74d"
+],
+"last_edit_date": "2025-01-02T11:23:54.048485",
+"edits": [
+{
+"timestamp": "2025-01-02T11:23:54.048485",
+"editor": "TAIPY",
+"comment": "Default data written."
+}
+],
+"version": "ce85a1f9-fb26-48ba-89b3-4761ee80f297",
+"validity_days": null,
+"validity_seconds": null,
+"edit_in_progress": false,
+"editor_id": null,
+"editor_expiration_date": null,
+"data_node_properties": {
+"is_generated": true,
+"path": "user_data/pickles/DATANODE_company_names_71451473-4bd7-4e52-8d81-138b57daf3f4.p"
+}
+}

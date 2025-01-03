@@ -1,0 +1,19 @@
+{
+"id": "TASK_filter_companies_task_5d38d127-a606-4aa8-9538-e76c816eb74d",
+"owner_id": "SCENARIO_country_company_scenario_76bd2548-1c5d-43b0-9f5e-bc0e895f608e",
+"parent_ids": [
+"SCENARIO_country_company_scenario_76bd2548-1c5d-43b0-9f5e-bc0e895f608e"
+],
+"config_id": "filter_companies_task",
+"input_ids": [
+"DATANODE_country_b5d9aa17-ad1e-4064-9252-18cdf278e073"
+],
+"function_name": "filter_company_names",
+"function_module": "__main__",
+"output_ids": [
+"DATANODE_company_names_71451473-4bd7-4e52-8d81-138b57daf3f4"
+],
+"version": "ce85a1f9-fb26-48ba-89b3-4761ee80f297",
+"skippable": false,
+"properties": {}
+}
